@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="librxtxSerial">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/librxtxSerial.jnilib" />
+    </SOURCES>
+  </library>
+</component>
